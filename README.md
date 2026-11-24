@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Blasphemous is a brutal action-platformer with skilled hack’n slash combat set in the nightmare world of Cvstodia. Explore, upgrade your abilities, and perform savage executions on the hordes of enemies that stand between you and your quest to break eternal damnation.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 | MacOS Sierra - 10.12.6 |
+| **Processor** | Min: Intel Core2 Duo E8400 or AMD Phenom II x2 550 / Rec: Intel Core i5-750 or AMD Phenom II x4 945 | 2.7 GHz Intel Core i5 |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GeForce GTX 260 or Radeon HD 4850 / Rec: GeForce GTX 650 or Radeon HD 5770 | Nvidia GeForce GT 640M |
+| **Storage** | 4 GB available space | 4 GB available space |
+| **OS *** | Windows 7 64-bit | Windows 7 64-bit |
 
 ---
 
